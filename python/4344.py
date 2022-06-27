@@ -9,3 +9,4 @@ for _ in range(case_num):
             per += 1
         percent = (per/n*100)
     print(f'{percent:.3f}%')
+    #print("{:.3f}%".format(percent))
